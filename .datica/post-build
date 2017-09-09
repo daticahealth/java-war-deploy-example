@@ -1,0 +1,3 @@
+#!/bin/sh -e
+wget "https://s3.amazonaws.com/datica-java-war-deploy-demo/simple-jar-0.1.jar"
+wget "https://s3.amazonaws.com/datica-java-war-deploy-demo/simple-war-0.1.war"
