@@ -3,7 +3,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.datica</groupId>
-	<artifactId>java-war-deploy-demo</artifactId>
+	<artifactId>java-war-deploy-example</artifactId>
 	<packaging>jar</packaging>
 	<version>0.1-SNAPSHOT</version>
 	<name>Demo for deploying WAR and JAR files</name>
