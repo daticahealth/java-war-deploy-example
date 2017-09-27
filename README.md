@@ -4,7 +4,7 @@ An example Java application that deploys an already-existing WAR file.
 
 Background
 ----------
-This is an extension of the [Java Tomcat example](https://github.com/daticahealth/java-tomcat-maven-example) with a few minor extensions to show how to work with WAR and JAR files that require customized build processes which do not fit nicely into the [buildpack model](https://resources.datica.com/compliant-cloud/articles/buildpacks/).
+This is an extension of the [Java Tomcat example](https://github.com/daticahealth/java-tomcat-maven-example) with a few minor tweaks to show how to work with WAR and JAR files that require customized build processes which do not fit nicely into the [buildpack model](https://resources.datica.com/compliant-cloud/articles/buildpacks/).
 
 The `simple-jar` and `simple-war` directories under `source-projects` are included here to show the (simplistic) source of the artifacts used by default in this demo. You can safely ignore them; the deployment method used here does _not_ require you to keep the source code of your application in a Git repository.
 
